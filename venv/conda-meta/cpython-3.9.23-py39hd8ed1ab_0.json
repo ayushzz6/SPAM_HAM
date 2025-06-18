@@ -1,0 +1,36 @@
+{
+  "build": "py39hd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.9,<3.10.0a0",
+    "python_abi * *_cp39"
+  ],
+  "extracted_package_dir": "C:\\Users\\Ayush paul\\anaconda3\\pkgs\\cpython-3.9.23-py39hd8ed1ab_0",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "cpython-3.9.23-py39hd8ed1ab_0.conda",
+  "license": "Python-2.0",
+  "link": {
+    "source": "C:\\Users\\Ayush paul\\anaconda3\\pkgs\\cpython-3.9.23-py39hd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "59965790c6aef69b417ccb9938512ec9",
+  "name": "cpython",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Ayush paul\\anaconda3\\pkgs\\cpython-3.9.23-py39hd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "c7e0c7cf0467e80dc00107950e7295a794262d4fe3109cf6e07a90b627ea5b59",
+  "size": 49247,
+  "subdir": "noarch",
+  "timestamp": 1749059639000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/cpython-3.9.23-py39hd8ed1ab_0.conda",
+  "version": "3.9.23"
+}
